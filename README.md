@@ -1,7 +1,7 @@
 ## Olá! Me chamo Lucas Branco Desenvolvedor Jr👋
 <div>
   <img height = "180em" src="https://github-readme-stats.vercel.app/api?username=lucas-abranco&show_icons=true&theme=dark&include_all_commits=true" />
-<img height = "180em" src = "https://github-readme-stats.vercel.app/api/top-langs/?username=lucas-abranco&layout=compac&theme=dark"
+<img height = "180em" src = "https://github-readme-stats.vercel.app/api/top-langs/?username=lucas-abranco&theme=dark"
   
 </div>
 
