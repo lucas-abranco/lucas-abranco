@@ -1,11 +1,48 @@
 ## Olá! Me chamo Lucas Branco Desenvolvedor Jr👋
 <div>
-  <img height = "180em" src="https://github-readme-stats.vercel.app/api?username=lucas-abranco&show_icons=true" />
+  <img height = "180em" src="https://github-readme-stats.vercel.app/api?username=lucas-abranco&show_icons=true&theme=dark&text_color=ffffff&include_all_commits=true" />
 <img height = "180em" src = "https://github-readme-stats.vercel.app/api/top-langs/?username=lucas-abranco&layout=compact&theme=dark"
   
 </div>
+<div style = "display: inline_block" >
+  
+  <img align="center" alt="Lucas-INTELLIJ" height="30" width ="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/intellij/intellij-original.svg" />
+  <img align="center" alt="Lucas-JAVA" height="30" width ="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" />
+   <img align="center" alt="Lucas-DOCKER" height="30" width ="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" />
+  <img align="center" alt="Lucas-JS" height="30" width ="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />
+  <img align="center" alt="Lucas-HTML" height="30" width ="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" />
+  <img align="center" alt="Lucas-CSS" height="30" width ="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" />
+  <img align="center" alt="Lucas-ANGULAR" height="30" width ="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/angularjs/angularjs-original.svg" />
+ 
+  <img align="center" alt="Lucas-BOOTSTRAP" height="30" width ="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg" />
+  <img align="center" alt="Lucas-FIGMA" height="30" width ="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg" />
+  <img align="center" alt="Lucas-GIT" height="30" width ="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" />
+ 
+  <img align="center" alt="Lucas-JENKIS" height="30" width ="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jenkins/jenkins-original.svg" />
+  <img align="center" alt="Lucas-JIRA" height="30" width ="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jira/jira-original.svg" />
+  <img align="center" alt="Lucas-LINUX" height="30" width ="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" />
+  <img align="center" alt="Lucas-MAVEM" height="30" width ="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/maven/maven-original.svg" />
+ 
+  <img align="center" alt="Lucas-NODE" height="30" width ="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original-wordmark.svg" />
+  <img align="center" alt="Lucas-NPM" height="30" width ="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/npm/npm-original-wordmark.svg" />
+  <img align="center" alt="Lucas-POSTMAN" height="30" width ="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postman/postman-original.svg" />
+  <img align="center" alt="Lucas-PYTHON" height="30" width ="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
+  <img align="center" alt="Lucas-REACT" height="30" width ="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" />
+  <img align="center" alt="Lucas-JIRA" height="30" width ="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jira/jira-original.svg" />
+  <img align="center" alt="Lucas-TS" height="30" width ="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" />
+  <img align="center" alt="Lucas-VSCODE" height="30" width ="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" />
+  
 
-
-
+  
+  
+  
+  
+  
+  
+  
+ 
+  
+  
+</div>
 - 🔭 Hoje atuo como full-stack
 - 🌱 Estudante de Analise e Desenvolvimento de Sistemas
